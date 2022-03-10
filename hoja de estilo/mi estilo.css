@@ -1,3 +1,7 @@
 body {
-  background-color: red;
+  background-color:greenyellow;
+}
+.text{
+   background-color: blueviolet;
+  color:darkred;
 }
